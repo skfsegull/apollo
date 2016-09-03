@@ -1,0 +1,52 @@
+{
+	"songs": [
+		{
+			"name": "Þýtur í laufi",
+			"type": "song",
+			"tempo": 2,
+			"length": 2
+		},
+		{
+			"name": "Skátasyrpan",
+			"type": "song",
+			"tempo": 3,
+			"length": 5
+		},
+		{
+			"name": "Hresstu þig við",
+			"type": "action",
+			"tempo": 4,
+			"length": 4
+		},
+		{
+			"name": "Sa-ramm-samm-samm",
+			"type": "action",
+			"tempo": 5,
+			"length": 3
+		},
+		{
+			"name": "Ömmulagið",
+			"type": "action",
+			"tempo": 4,
+			"length": 4
+		},
+		{
+			"name": "Líkar þér við minn fjórfætta vin?",
+			"type": "song",
+			"tempo": 4,
+			"length": 1
+		},
+		{
+			"name": "Ó, stælti skáti",
+			"type": "song",
+			"tempo": 3,
+			"length": 4
+		},
+		{
+			"name": "Undraland",
+			"type": "song",
+			"tempo": 1,
+			"length": 3
+		}
+	]
+}
